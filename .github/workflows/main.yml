@@ -42,7 +42,7 @@ jobs:
             git add .
             git commit -a -m "add weather data"
             git remote rm origin
-            git remote add origin https://cblte:$PUSH_TOKEN@github.com:cblte/wttr-tracker.git
+            git remote add origin https://cblte:$PUSH_TOKEN@github.com/cblte/wttr-tracker.git
             git push origin HEAD:main
           else
             echo 'unable to detech changes'

@@ -12,6 +12,7 @@ jobs:
         run: pwd
       - name: Run a multi-line script
         run: |
+          mkdir -p ./docs/assets/data
           FILE=./docs/assets/data/`date +"%Y%m%d-%H%M"`.csv
           if [ -f "$FILE" ]; then
               echo "$FILE exists. Done for today."

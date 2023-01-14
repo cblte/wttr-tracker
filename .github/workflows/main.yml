@@ -3,6 +3,9 @@ name: CI
 on:
   schedule:
     - cron: 0 0,6,12,18 * * *
+  push:
+    branches:
+      - "main"
 
 jobs:
   build:
@@ -12,7 +15,7 @@ jobs:
       - uses: actions/checkout@v1
       - name: Run a one-line script
         run: pwd
-      - name: Run a multi-line script
+      - name: Get Weather Data
         run: |
           mkdir -p ./docs/assets/data
           FILE=./docs/assets/data/`date +"%Y%m%d-%H%M"`.csv
@@ -21,7 +24,7 @@ jobs:
           else
 
               echo "Begin to get today's weather condition."
-              url="https://wttr.in/Den%20Haag?lang=de&format=%c,%C,%x,%h,%t,%f,%w,%l,%m,%M,%p,%P,%u,%D,%S,Z,%s,%d,%T,%Z"
+              url="https://wttr.in/Den%20Haag?lang=de&format=%T,%Z,%c,%C,%x,%h,%t,%f,%w,%l,%m,%M,%p,%P,%u,%D,%S,Z,%s,%d"
               response=$(curl -f $url)
               status=$?
               if [ $status -eq 0 ]; then
@@ -33,6 +36,25 @@ jobs:
                   exit $status
               fi
           fi
+      - name: Combine data
+        run: |
+          cd ./docs/assets/data
+          # Sort the text files by date
+          FILES=($(ls -t))
+          # Initialize an empty file to store the combined text
+          COMBINED_FILE="../combined_data.txt"
+          touch $COMBINED_FILE
+          # Add Header into file
+          echo "Current time,Local timezone,Weather condition,Weather condition textual name,Weather condition plain-text symbol,Humidity,Temperature (Actual),Temperature (Feels Like),Wind,Location,Moon phase,Moon day,Precipitation (mm/3 hours),Pressure (hPa),UV index (1-12),Dawn,Sunrise,Zenith,Sunset,Dusk" >> COMBINED_FILE
+          # Loop through the text files and append the contents to the combined file
+          for FILE in "${FILES[@]}"
+          do
+              cat "$FILE" >> $COMBINED_FILE
+          done
+          # Change back to the original directory
+          cd $CURRENT_DIR
+          # Print the combined file
+          cat $COMBINED_FILE
       - name: git check in
         env:
           GIT_OWNER_EMAIL: ${{ secrets.GIT_OWNER_EMAIL }}

@@ -1,4 +1,4 @@
-Current time,Local timezone,Weather condition,Weather condition textual name,Weather condition,plain-text symbol,Humidity,Temperature (Actual),Temperature (Feels Like),Wind,Location,Moon phase 🌑🌒🌓🌔🌕🌖🌗🌘,Moon day,Precipitation (mm/3 hours),Pressure (hPa),UV index (1-12),Dawn*,Sunrise*,Zenith*,Sunset*,Dusk*,
+Current time,Local timezone,Weather condition,Weather condition textual name,Weather condition plain-text symbol,Humidity,Temperature (Actual),Temperature (Feels Like),Wind,Location,Moon phase 🌑🌒🌓🌔🌕🌖🌗🌘,Moon day,Precipitation (mm/3 hours),Pressure (hPa),UV index (1-12),Dawn*,Sunrise*,Zenith*,Sunset*,Dusk*,
 16:28:02+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,71%,+10°C,+6°C,→31km/h,Den Haag,🌗,19,0.2mm,1007hPa,2,08:06:23,08:46:34,Z,16:56:48,17:37:01
 16:28:18+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,71%,+10°C,+6°C,→31km/h,Den Haag,🌗,19,0.2mm,1007hPa,2,08:06:23,08:46:34,Z,16:56:48,17:37:01
 19:11:03+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,81%,+48°F,+40°F,↗21mph,Den Haag,🌗,19,0.0mm,1010hPa,1,08:06:23,08:46:34,Z,16:56:48,17:37:01

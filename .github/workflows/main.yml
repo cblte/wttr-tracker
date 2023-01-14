@@ -43,7 +43,7 @@ jobs:
           # Sort the text files by date
           FILES=($(ls -t))
           # Initialize an empty file to store the combined text
-          COMBINED_FILE="../combined_data.txt"
+          COMBINED_FILE="../combined_data.csv"
           touch $COMBINED_FILE
           # Add Header into file
           echo "Current time,Local timezone,Weather condition,Weather condition textual name,Weather condition plain-text symbol,Humidity,Temperature (Actual),Temperature (Feels Like),Wind,Location,Moon phase,Moon day,Precipitation (mm/3 hours),Pressure (hPa),UV index (1-12),Dawn,Sunrise,Zenith,Sunset,Dusk" >> $COMBINED_FILE

@@ -38,6 +38,7 @@ jobs:
           fi
       - name: Combine data
         run: |
+          $CURRENT_DIR=$(pwd)
           cd ./docs/assets/data
           # Sort the text files by date
           FILES=($(ls -t))
@@ -53,8 +54,6 @@ jobs:
           done
           # Change back to the original directory
           cd $CURRENT_DIR
-          # Print the combined file
-          cat $COMBINED_FILE
       - name: git check in
         env:
           GIT_OWNER_EMAIL: ${{ secrets.GIT_OWNER_EMAIL }}

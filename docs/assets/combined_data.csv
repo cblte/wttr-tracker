@@ -1815,3 +1815,66 @@ Current time,Local timezone,Weather condition,Weather condition textual name,Wea
 11:56:05+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
 13:14:52+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
 19:10:03+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,100%,+52°F,+46°F,↗23mph,Den Haag,🌗,20,0.0mm,995hPa,1,08:05:44,08:45:47,Z,16:58:20,17:38:25
+Current time,Local timezone,Weather condition,Weather condition textual name,Weather condition plain-text symbol,Humidity,Temperature (Actual),Temperature (Feels Like),Wind,Location,Moon phase,Moon day,Precipitation (mm/3 hours),Pressure (hPa),UV index (1-12),Dawn,Sunrise,Zenith,Sunset,Dusk
+07:11:48+0100,Europe/Amsterdam,🌫 ,Nebel,=,100%,+36°F,+25°F,↘2mph,Den Haag,🌒,4,0.0mm,1024hPa,1,07:54:22,08:32:42,Z,17:18:39,17:57:01
+11:56:05+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+13:14:52+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+19:10:03+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,100%,+52°F,+46°F,↗23mph,Den Haag,🌗,20,0.0mm,995hPa,1,08:05:44,08:45:47,Z,16:58:20,17:38:25
+01:51:35+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,76%,+46°F,+38°F,↗17mph,Den Haag,🌗,21,0.0mm,997hPa,1,08:05:02,08:44:57,Z,16:59:54,17:39:51
+07:10:56+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,66%,+45°F,+36°F,→21mph,Den Haag,🌗,21,0.0mm,997hPa,1,08:05:02,08:44:57,Z,16:59:54,17:39:51
+13:14:56+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,81%,+45°F,+35°F,↗21mph,Den Haag,🌗,21,0.2mm,997hPa,2,08:05:02,08:44:57,Z,16:59:54,17:39:51
+19:10:09+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,93%,+43°F,+35°F,↗22mph,Den Haag,🌗,21,0.1mm,998hPa,1,08:05:02,08:44:57,Z,16:59:54,17:39:51
+01:47:25+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,100%,+4°C,-2°C,↑22km/h,Den Haag,🌗,22,0.2mm,995hPa,1,08:04:17,08:44:04,Z,17:01:30,17:41:19
+07:12:24+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,93%,+39°F,+29°F,↖11mph,Den Haag,🌗,22,0.0mm,986hPa,1,08:04:17,08:44:04,Z,17:01:30,17:41:19
+13:17:08+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+6°C,+1°C,↖17km/h,Den Haag,🌗,22,0.6mm,978hPa,2,08:04:17,08:44:04,Z,17:01:30,17:41:19
+19:10:59+0100,Europe/Amsterdam,🌧 ,Heavy drizzle, Regenschauer,//,100%,+39°F,+28°F,↘19mph,Den Haag,🌗,22,0.4mm,978hPa,1,08:04:17,08:44:04,Z,17:01:30,17:41:19
+01:47:42+0100,Europe/Amsterdam,🌧 ,Drizzle and rain, Regenschauer,//,93%,+3°C,-3°C,→24km/h,Den Haag,🌘,23,0.0mm,984hPa,1,08:03:30,08:43:08,Z,17:03:08,17:42:48
+07:11:53+0100,Europe/Amsterdam,☀️ ,Wolkenlos,o,80%,+36°F,+26°F,→8mph,Den Haag,🌘,23,0.0mm,986hPa,1,08:03:30,08:43:08,Z,17:03:08,17:42:48
+13:17:51+0100,Europe/Amsterdam,☀️ ,Sonnig,o,75%,+37°F,+30°F,↑4mph,Den Haag,🌘,23,0.0mm,987hPa,2,08:03:30,08:43:08,Z,17:03:08,17:42:48
+19:11:20+0100,Europe/Amsterdam,☀️ ,Wolkenlos,o,80%,+34°F,+26°F,→4mph,Den Haag,🌘,23,0.0mm,988hPa,1,08:03:30,08:43:08,Z,17:03:08,17:42:48
+01:51:31+0100,Europe/Amsterdam,☀️ ,Wolkenlos,o,100%,-2°C,-8°C,→7km/h,Den Haag,🌘,24,0.0mm,990hPa,1,08:02:39,08:42:09,Z,17:04:46,17:44:18
+07:12:09+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,93%,+27°F,+16°F,↑4mph,Den Haag,🌘,24,0.0mm,991hPa,1,08:02:39,08:42:09,Z,17:04:46,17:44:18
+13:17:00+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,81%,+41°F,+32°F,↗15mph,Den Haag,🌘,24,0.1mm,994hPa,2,08:02:39,08:42:09,Z,17:04:46,17:44:18
+19:10:57+0100,Europe/Amsterdam,🌧 ,Regenschauer,///,75%,+5°C,-0°C,↗20km/h,Den Haag,🌘,24,0.2mm,997hPa,1,08:02:39,08:42:09,Z,17:04:46,17:44:18
+01:50:26+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,81%,+5°C,-0°C,→24km/h,Den Haag,🌘,25,0.0mm,999hPa,1,08:01:46,08:41:08,Z,17:06:27,17:45:50
+07:11:50+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,93%,+4°C,-1°C,→9km/h,Den Haag,🌘,25,1.1mm,1002hPa,1,08:01:46,08:41:08,Z,17:06:27,17:45:50
+13:17:47+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,70%,+41°F,+34°F,→11mph,Den Haag,🌘,25,0.0mm,1005hPa,3,08:01:46,08:41:08,Z,17:06:27,17:45:50
+19:11:36+0100,Europe/Amsterdam,🌨 ,Rain and snow and small hail/snow pallets shower,*,100%,+34°F,+28°F,↑11mph,Den Haag,🌘,25,0.0mm,1007hPa,1,08:01:46,08:41:08,Z,17:06:27,17:45:50
+01:49:48+0100,Europe/Amsterdam,🌨 ,Rain and snow and small hail/snow pallets shower,*,100%,+1°C,-3°C,↑13km/h,Den Haag,🌑,26,0.0mm,1009hPa,1,08:00:51,08:40:03,Z,17:08:08,17:47:23
+07:12:18+0100,Europe/Amsterdam,❄️ ,Leichter Regen, rain and snow shower,*/*,100%,+1°C,-4°C,↑13km/h,Den Haag,🌑,26,0.0mm,1010hPa,1,08:00:51,08:40:03,Z,17:08:08,17:47:23
+13:17:37+0100,Europe/Amsterdam,❄️ ,Light rain and snow shower, rain and snow shower,*/*,100%,+1°C,-4°C,↑13km/h,Den Haag,🌑,26,0.9mm,1012hPa,2,08:00:51,08:40:03,Z,17:08:08,17:47:23
+19:11:22+0100,Europe/Amsterdam,🌧 ,Leichter Schneeregen,x/,89%,+38°F,+29°F,←15mph,Den Haag,🌑,26,0.4mm,1018hPa,1,08:00:51,08:40:03,Z,17:08:08,17:47:23
+01:48:46+0100,Europe/Amsterdam,☀️ ,Wolkenlos,o,81%,+35°F,+27°F,↙10mph,Den Haag,🌑,27,0.0mm,1026hPa,1,07:59:52,08:38:56,Z,17:09:51,17:48:57
+13:15:16+0100,Europe/Amsterdam,🌫 ,Nebel,=,100%,+32°F,+26°F,←4mph,Den Haag,🌑,27,0.0mm,1033hPa,3,07:59:52,08:38:56,Z,17:09:51,17:48:57
+19:09:59+0100,Europe/Amsterdam,🌫 ,Gefrierender Nebel, Nebel,=,100%,-1°C,-5°C,←13km/h,Den Haag,🌑,27,0.0mm,1034hPa,1,07:59:52,08:38:56,Z,17:09:51,17:48:57
+01:52:00+0100,Europe/Amsterdam,🌫 ,Gefrierender Nebel, Nebel,=,100%,-3°C,-8°C,↘4km/h,Den Haag,🌑,0,0.0mm,1034hPa,1,07:58:51,08:37:46,Z,17:11:35,17:50:32
+07:11:03+0100,Europe/Amsterdam,☀️ ,Wolkenlos,o,93%,+32°F,+24°F,↓6mph,Den Haag,🌑,0,0.0mm,1033hPa,1,07:58:51,08:37:46,Z,17:11:35,17:50:32
+13:15:17+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,87%,+2°C,-3°C,↙17km/h,Den Haag,🌑,0,0.0mm,1034hPa,2,07:58:51,08:37:46,Z,17:11:35,17:50:32
+19:10:21+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+36°F,+29°F,↓6mph,Den Haag,🌑,0,0.0mm,1034hPa,1,07:58:51,08:37:46,Z,17:11:35,17:50:32
+01:46:22+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,100%,+36°F,+30°F,↙4mph,Den Haag,🌑,1,0.0mm,1035hPa,1,07:57:48,08:36:34,Z,17:13:19,17:52:08
+07:11:24+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,100%,+36°F,+29°F,↙7mph,Den Haag,🌑,1,0.0mm,1036hPa,1,07:57:48,08:36:34,Z,17:13:19,17:52:08
+13:16:49+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+4°C,+1°C,↙11km/h,Den Haag,🌑,1,0.0mm,1037hPa,2,07:57:48,08:36:34,Z,17:13:19,17:52:08
+19:10:15+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+37°F,+32°F,↙4mph,Den Haag,🌑,1,0.0mm,1037hPa,1,07:57:48,08:36:34,Z,17:13:19,17:52:08
+01:51:05+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,87%,+37°F,+32°F,↙13mph,Den Haag,🌒,2,0.0mm,1038hPa,1,07:56:42,08:35:19,Z,17:15:05,17:53:45
+07:11:38+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+36°F,+29°F,←8mph,Den Haag,🌒,2,0.0mm,1038hPa,1,07:56:42,08:35:19,Z,17:15:05,17:53:45
+13:17:51+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+2°C,-1°C,←11km/h,Den Haag,🌒,2,0.0mm,1039hPa,2,07:56:42,08:35:19,Z,17:15:05,17:53:45
+19:11:14+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+34°F,+29°F,←7mph,Den Haag,🌒,2,0.0mm,1038hPa,1,07:56:42,08:35:19,Z,17:15:05,17:53:45
+01:47:10+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+32°F,+29°F,↖4mph,Den Haag,🌒,3,0.0mm,1038hPa,1,07:55:33,08:34:02,Z,17:16:52,17:55:23
+07:11:56+0100,Europe/Amsterdam,☁️ ,Bedeckt,mmm,93%,+0°C,-2°C,↖6km/h,Den Haag,🌒,3,0.0mm,1035hPa,1,07:55:33,08:34:02,Z,17:16:52,17:55:23
+13:19:51+0100,Europe/Amsterdam,🌫 ,Nebel,=,93%,+32°F,+25°F,↑6mph,Den Haag,🌒,3,0.0mm,1032hPa,3,07:55:33,08:34:02,Z,17:16:52,17:55:23
+19:10:18+0100,Europe/Amsterdam,🌫 ,Nebel,=,100%,+32°F,+24°F,↑12mph,Den Haag,🌒,3,0.0mm,1028hPa,1,07:55:33,08:34:02,Z,17:16:52,17:55:23
+01:48:16+0100,Europe/Amsterdam,🌦 ,Leichter Nieselregen und Regen,/,100%,+34°F,+27°F,↑7mph,Den Haag,🌒,4,0.5mm,1024hPa,1,07:54:22,08:32:42,Z,17:18:39,17:57:01
+16:28:02+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,71%,+10°C,+6°C,→31km/h,Den Haag,🌗,19,0.2mm,1007hPa,2,08:06:23,08:46:34,Z,16:56:48,17:37:01
+16:28:18+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,71%,+10°C,+6°C,→31km/h,Den Haag,🌗,19,0.2mm,1007hPa,2,08:06:23,08:46:34,Z,16:56:48,17:37:01
+19:11:03+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,81%,+48°F,+40°F,↗21mph,Den Haag,🌗,19,0.0mm,1010hPa,1,08:06:23,08:46:34,Z,16:56:48,17:37:01
+01:46:01+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,81%,+46°F,+39°F,→12mph,Den Haag,🌗,20,0.0mm,1013hPa,1,08:05:44,08:45:47,Z,16:58:20,17:38:25
+07:10:41+0100,Europe/Amsterdam,⛅️ ,Leicht Bewölkt,m,93%,+7°C,+2°C,↑22km/h,Den Haag,🌗,20,0.3mm,1009hPa,1,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:47:38+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:48:01+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:49:04+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+9°C,+4°C,↑35km/h,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:50:11+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:51:12+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:52:14+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+9°C,+4°C,↑35km/h,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:53:16+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:54:17+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+48°F,+40°F,↑22mph,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
+11:55:08+0100,Europe/Amsterdam,🌦 ,Leichter Regen,/,93%,+9°C,+4°C,↑35km/h,Den Haag,🌗,20,0.0mm,1001hPa,2,08:05:44,08:45:47,Z,16:58:20,17:38:25
